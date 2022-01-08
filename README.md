@@ -2,11 +2,11 @@
 
 ---
 
-Je suis [LeRomino](https://www.youtube.com/c/LeRomino)💻, travaillant depuis 2021 sur les Bots .
+Je suis LeRomino💻, travaillant depuis 2021 sur les Bots .
 
 <img align="right" alt="GIF" src="./programmer.gif" width="400" height="245" />
 
-<a href="https://github.com/LeRomino"><img alt="GitHub - LeRomino" title="GitHub - LeRomino" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a> <a href="https://discord.gg/xtXmxmFtsC"><img alt="Discord - LeRomino#7119" title="Discord - LeRomino#7119" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a> <a href="https://twitter.com/Le_Romino"><img alt="Twitter - Le_Romino" title="Twitter - Le_Romino" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> <a href="https://www.youtube.com/c/LeRomino"><img alt="YouTube - LeRomino" title="YouTube - LeRomino" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
+<a href="https://github.com/LeRomino"><img alt="GitHub - LeRomino" title="GitHub - LeRomino" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a> <a href="https://discord.gg/xtXmxmFtsC"><img alt="Discord - LeRomino#7119" title="Discord - LeRomino#7119" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a> <a href="https://twitter.com/Le_Romino"><img alt="Twitter - Le_Romino" title="Twitter - Le_Romino" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a>
 
 💻 **Je code actuellement en:**
 ```text
