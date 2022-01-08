@@ -22,4 +22,4 @@ HTML
 
 Vous pouvez toujours me soutenir en invitant un de mes **propres bots Discord**.
 
-<a href="https://the.okigi.fr/newinvite"><img alt="The OKIGI - Invitation" title="The OKIGI - Invitation" height="50" width="50" src="https://images-ext-2.discordapp.net/external/BhorLvQsWvZBjLmW6zkYPhblN3GLeyUrFtXsge-RPMU/https/i.imgur.com/9QruhcP.jpg"></a>
+<a href="https://the.okigi.fr/invite"><img alt="The OKIGI - Invitation" title="The OKIGI - Invitation" height="50" width="50" src="https://images-ext-2.discordapp.net/external/BhorLvQsWvZBjLmW6zkYPhblN3GLeyUrFtXsge-RPMU/https/i.imgur.com/9QruhcP.jpg"></a>
